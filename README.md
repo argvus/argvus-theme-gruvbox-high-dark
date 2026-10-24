@@ -5,6 +5,11 @@ Official ARGVUS Dark theme, `gruvbox-high-dark`, with its Sticky and Float varia
 [![CI](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/ci.yml/badge.svg)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/ci.yml)
 [![Release](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/release.yml/badge.svg)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/release.yml)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![Language: Shell](https://img.shields.io/badge/Shell-POSIX-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Platform: Arch Linux | Wayland](https://img.shields.io/badge/platform-Arch%20Linux%20%7C%20Wayland-1793D1?logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![Pull requests](https://img.shields.io/github/issues-pr/argvus/argvus-theme-gruvbox-high-dark)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/pulls)
+[![Issues](https://img.shields.io/github/issues/argvus/argvus-theme-gruvbox-high-dark)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/issues)
+[![Last commit](https://img.shields.io/github/last-commit/argvus/argvus-theme-gruvbox-high-dark)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/commits/main)
 
 ## Theme identity
 
