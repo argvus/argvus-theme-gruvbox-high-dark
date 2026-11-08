@@ -1,6 +1,6 @@
 # Gruvbox High Dark theme for ARGVUS
 
-Official ARGVUS Dark theme, `gruvbox-high-dark`, with its Sticky and Float variants.
+Official ARGVUS Dark theme, `gruvbox-high-dark`, with its Sticky and Spaced variants.
 
 [![CI](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/ci.yml/badge.svg)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/ci.yml)
 [![Release](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/release.yml/badge.svg)](https://github.com/argvus/argvus-theme-gruvbox-high-dark/actions/workflows/release.yml)
@@ -15,7 +15,7 @@ Official ARGVUS Dark theme, `gruvbox-high-dark`, with its Sticky and Float varia
 
 | Field | Value |
 | --- | --- |
-| Theme ID | `gruvbox-high-dark` (Float variant: `gruvbox-high-dark-float`) |
+| Theme ID | `gruvbox-high-dark` (Spaced variant: `gruvbox-high-dark-spaced`) |
 | Display name | Gruvbox High Dark |
 | Mode | `dark` |
 | Default highlight | `#D79921` |
@@ -45,7 +45,7 @@ The package installs the theme manifest,
 the palette), the templates it overrides under `overrides/` when it has any, and its
 wallpapers under `/usr/share/backgrounds/argvus`. The files of every component are
 rendered from the palette by the component's own templates when the theme is applied,
-for Sticky and Float alike. `argvus theme check src/usr/share/argvus/themes/gruvbox-high-dark`
+for Sticky and Spaced alike. `argvus theme check src/usr/share/argvus/themes/gruvbox-high-dark`
 renders them all and reports any error.
 
 ## Development
